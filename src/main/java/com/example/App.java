@@ -5,7 +5,8 @@ package com.example;
  *
  */
 
-//test: trigger Jenkins CI with Poll SCM
+// Modified to test CI with Jenkins
+
 
 public class App 
 {
